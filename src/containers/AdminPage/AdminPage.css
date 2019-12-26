@@ -1,0 +1,10 @@
+.AdminForm{
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+
+span{
+  text-transform: capitalize;
+}
